@@ -1,0 +1,12 @@
+1. Writing 4 blog post content pages (from chatGPT) about how to learn how to play guitar in different html files first with images text and comments in your code
+2. Make a navigation bar on the single main one with Home, About Me, Blog Posts, and Contact links.
+3. Make a read more button or make a grid for each of the other 3 posts on the main one each having a title, an excerpt of the post and a publication date and make it a clickable link thing that takes you to the actual page
+4. Make an about me page that talks about you with a picture of you and some personal details.
+5. Make a contact form at the bottom of the main page and do basic form validation. (name, email, message)
+6. Make a footer containing links, copyright information and other relevant details.
+7. Add a logo to the header
+8. Style the thing - responsive, use stylings and animations, background collage
+
+- guitar ergonomics
+- the chords thing
+- the strumming thing
